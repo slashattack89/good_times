@@ -6,7 +6,7 @@
             $dbname = "slashattack89";
 
             //These variable values need to be changed by you before deploying
-            $password = "v8xrAhcj9m@t";
+            $password = "************";
             $usertable = "T1";
             $yourfield = "A";
         
